@@ -1,1 +1,2 @@
-# GG-Bond
+＃GG-邦德
+hi humans!
